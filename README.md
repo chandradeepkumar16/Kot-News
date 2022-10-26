@@ -1,5 +1,7 @@
 # Kot-News
-Tech Used - Kotlin
+Tech Used - Kotlin 
+
+
 Database Used - Room Database
 
 More over .....
